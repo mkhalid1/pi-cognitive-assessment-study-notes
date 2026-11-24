@@ -1,6 +1,6 @@
 # PI Cognitive Assessment Study Notes
 
-A free, complete study guide for the Predictive Index (PI) Cognitive Assessment: how the 50-question, 12-minute test works, a clear method for each of its three content areas, 54 original practice items with full explanations, how the 100 to 450 score really works, a pacing plan, and study plans for a week or a weekend. Written for anyone who has just received a PI link from an employer, with a page on taking it alongside the PI Behavioral Assessment. Facts about the test come only from The Predictive Index's own pages, each one [cited](docs/sources.md).
+A free, complete study guide for the Predictive Index (PI) Cognitive Assessment: how the 50-question, 12-minute test works, a clear method for each of its three content areas, 21 original practice items with full explanations, how the 100 to 450 score really works, a pacing plan, and study plans for a week or a weekend. Written for anyone who has just received a PI link from an employer, with a page on taking it alongside the PI Behavioral Assessment. Facts about the test come only from The Predictive Index's own pages, each one [cited](docs/sources.md).
 
 Want to see where you stand first? Take the [free 50-question, 12-minute PI Cognitive practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pi-cognitive-assessment?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pi-cognitive-assessment), or the shorter [10-minute diagnostic](docs/diagnostic.md) in this repo.
 
