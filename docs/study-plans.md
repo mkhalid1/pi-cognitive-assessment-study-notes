@@ -2,7 +2,7 @@
 
 # Study plans
 
-Two plans: one for a week, one for when the invitation is already in your inbox. Both start with the [15-minute diagnostic](diagnostic.md) so you know your weakest area and your pace. The 7-day plan takes about 30 to 45 minutes a day.
+Two plans: one for a week, one for when the invitation is already in your inbox. Both start with the [10-minute diagnostic](diagnostic.md) so you know your weakest area and your pace. The 7-day plan takes about 30 to 45 minutes a day.
 
 PI says the test needs no preparation, and it is true that you cannot learn the answers in advance. What practice does change is familiarity and speed. A first-time candidate loses seconds on every new question style. A prepared one does not.
 
@@ -11,7 +11,7 @@ PI says the test needs no preparation, and it is true that you cannot learn the 
 | Day | Focus | What to do |
 |---|---|---|
 | 1 | Baseline | Read [the test explained](test-overview.md) and [How scoring works](scoring.md). Take the [diagnostic](diagnostic.md). Note your weakest area and how many items you reached in time. |
-| 2 | Weakest area | Read that area's guide. Do its 15 practice items untimed, then again in 3 minutes 30 seconds. Review every miss. |
+| 2 | Weakest area | Read that area's guide. Do its 5 practice items untimed, then again in 1 minute 10 seconds. Review every miss. |
 | 3 | Numerical | Read the [numerical guide](sections/numerical-reasoning.md). Learn the series checklist. Do the items timed. Spend 10 minutes on mental arithmetic: quarters, tenths, times tables. |
 | 4 | Verbal and abstract | Do the [verbal](sections/verbal-reasoning.md) and [abstract](sections/abstract-reasoning.md) sets, timed. For each abstract miss, write the rule in five words or fewer. |
 | 5 | First full timed run | Read the [timing guide](timing.md). Take a full 50-question, 12-minute practice test, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/pi-cognitive-assessment?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pi-cognitive-assessment). Note how many you answered and how many were right. |
@@ -36,7 +36,7 @@ For when the link has arrived and the deadline is close.
 
 | Block | Time | What to do |
 |---|---|---|
-| 1 | 15 min | Take the [diagnostic](diagnostic.md). |
+| 1 | 10 min | Take the [diagnostic](diagnostic.md). |
 | 2 | 15 min | Read "How the questions look" and "Traps" in all three section guides. |
 | 3 | 30 min | Do the practice set for your weakest area, then one other set, both timed. Read every explanation. |
 | 4 | 15 min | Take a full timed run, such as the [free PI practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pi-cognitive-assessment?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pi-cognitive-assessment). |

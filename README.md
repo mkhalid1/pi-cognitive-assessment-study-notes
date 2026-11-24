@@ -2,12 +2,12 @@
 
 A free, complete study guide for the Predictive Index (PI) Cognitive Assessment: how the 50-question, 12-minute test works, a clear method for each of its three content areas, 54 original practice items with full explanations, how the 100 to 450 score really works, a pacing plan, and study plans for a week or a weekend. Written for anyone who has just received a PI link from an employer, with a page on taking it alongside the PI Behavioral Assessment. Facts about the test come only from The Predictive Index's own pages, each one [cited](docs/sources.md).
 
-Want to see where you stand first? Take the [free 50-question, 12-minute PI Cognitive practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pi-cognitive-assessment?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pi-cognitive-assessment), or the shorter [15-minute diagnostic](docs/diagnostic.md) in this repo.
+Want to see where you stand first? Take the [free 50-question, 12-minute PI Cognitive practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pi-cognitive-assessment?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pi-cognitive-assessment), or the shorter [10-minute diagnostic](docs/diagnostic.md) in this repo.
 
 ## Start here
 
-1. **Find your weak area and your pace.** Take the [15-minute diagnostic](docs/diagnostic.md). It has three items from each area, run at the real test's speed.
-2. **Fix the weakest area first.** Open its guide below, learn the method and the traps, then do its 15 timed practice items.
+1. **Find your weak area and your pace.** Take the [10-minute diagnostic](docs/diagnostic.md). It has two items from each area, run at the real test's speed.
+2. **Fix the weakest area first.** Open its guide below, learn the method and the traps, then do its 5 timed practice items.
 3. **Follow a plan.** Use the [7-day plan](docs/study-plans.md#7-day-plan), or the [2-day plan](docs/study-plans.md#2-day-plan) if your test link has already arrived.
 
 ## Quick facts
@@ -35,7 +35,7 @@ Sources: [PI Cognitive Assessment](https://www.predictiveindex.com/assessments/c
 | Numerical reasoning | Solve number series, percentages, ratios and short word problems | 18 questions | [Numerical reasoning](docs/sections/numerical-reasoning.md) |
 | Abstract reasoning | Find the rule in patterns of shapes and symbols | 16 questions | [Abstract reasoning](docs/sections/abstract-reasoning.md) |
 
-Every area guide has the same parts: what it measures, how the questions look, a step-by-step method, the traps that cost points, timing advice, 15 original practice items with explanations, and a score table.
+Every area guide has the same parts: what it measures, how the questions look, a step-by-step method, the traps that cost points, timing advice, 5 original practice items with explanations, and a score table.
 
 ## Contents
 
@@ -52,7 +52,7 @@ Every area guide has the same parts: what it measures, how the questions look, a
   - [Extended time and accommodations](docs/test-overview.md#extended-time-and-accommodations)
   - [Languages](docs/test-overview.md#languages)
   - [Practise the real format](docs/test-overview.md#practise-the-real-format)
-- [15-minute diagnostic](docs/diagnostic.md)
+- [10-minute diagnostic](docs/diagnostic.md)
   - [How to take it](docs/diagnostic.md#how-to-take-it)
   - [Part A: Verbal reasoning](docs/diagnostic.md#part-a-verbal-reasoning)
   - [Part B: Numerical reasoning](docs/diagnostic.md#part-b-numerical-reasoning)
@@ -154,7 +154,7 @@ Every area guide has the same parts: what it measures, how the questions look, a
 ## How to use this repo
 
 - **Read on GitHub.** Every page has links to the previous page, the next page and back to these contents, so you can read it start to finish like a book.
-- **Time yourself.** Each practice set is 15 items; the real pace for 15 items is 3 minutes 30 seconds. Speed is part of what the test measures, so practise it.
+- **Time yourself.** Each practice set is 5 items; the real pace for 5 items is 1 minute 10 seconds. Speed is part of what the test measures, so practise it.
 - **Test yourself honestly.** Answers are hidden under "Answers and explanations". Commit to an answer before you open them.
 - **Read every explanation,** including for items you got right. Most say why the nearest wrong option is wrong, which is where the learning is.
 - **Keep a miss log.** For each miss, note whether it was speed or understanding. The [study plans](docs/study-plans.md#how-to-review-a-missed-item) show how.
@@ -163,7 +163,7 @@ Every area guide has the same parts: what it measures, how the questions look, a
 
 ## About the practice items
 
-All 54 practice items (45 in the area guides and 9 in the diagnostic) are original, written for these notes. None are taken from the PI Cognitive Assessment, from PI's sample questions or from any prep site. PI does not publish a breakdown of question types beyond its three content areas, so the formats here are practice formats that train the skills PI describes. Your score on them, like your score on any practice test, is a guide to what to work on, not a prediction of your PI score.
+All 21 practice items (15 in the area guides and 6 in the diagnostic) are original, written for these notes. None are taken from the PI Cognitive Assessment, from PI's sample questions or from any prep site. PI does not publish a breakdown of question types beyond its three content areas, so the formats here are practice formats that train the skills PI describes. Your score on them, like your score on any practice test, is a guide to what to work on, not a prediction of your PI score.
 
 ## Contributing
 

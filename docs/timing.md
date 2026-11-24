@@ -45,7 +45,7 @@ PI's public pages do not say whether you can go back to earlier questions. Read 
 
 ## Practise against the clock
 
-The practice sets in this repo are 15 items in 3 minutes 30 seconds, which is the real pace. Once you can do them comfortably, practise the full length: 50 mixed items in 12 minutes, in one sitting, with no pausing. The [free PI Cognitive practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pi-cognitive-assessment?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pi-cognitive-assessment) runs at that length and pace.
+The practice sets in this repo are 5 items in 1 minute 10 seconds, which is the real pace. Once you can do them comfortably, practise the full length: 50 mixed items in 12 minutes, in one sitting, with no pausing. The [free PI Cognitive practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pi-cognitive-assessment?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pi-cognitive-assessment) runs at that length and pace.
 
 After each timed run, note two numbers: how many you answered, and how many of those were right. If the first number is low, work on speed. If the second is low, slow down slightly and check each answer against the question.
 
