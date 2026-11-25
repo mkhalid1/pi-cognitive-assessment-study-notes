@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [10-minute diagnostic](../diagnostic.md) · Next: [Numerical reasoning](numerical-reasoning.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [10-minute diagnostic](../diagnostic.md) · Next: [Numerical reasoning](numerical-reasoning.md)
+<!-- /nav:top -->
 
 # Verbal reasoning
 
@@ -105,4 +107,6 @@ Verbal items feel different when they are mixed in with numbers and shapes again
 
 ---
 
-<!-- nav:bottom -->← Previous: [10-minute diagnostic](../diagnostic.md) | Next: [Numerical reasoning](numerical-reasoning.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [10-minute diagnostic](../diagnostic.md) | Next: [Numerical reasoning](numerical-reasoning.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

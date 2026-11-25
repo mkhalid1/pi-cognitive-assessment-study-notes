@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [Study plans](study-plans.md) · Next: [Test-day checklist](test-day-checklist.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [Study plans](study-plans.md) · Next: [Test-day checklist](test-day-checklist.md)
+<!-- /nav:top -->
 
 # If you are also taking the PI Behavioral Assessment
 
@@ -41,4 +43,6 @@ Both results are compared with targets the employer set for the job, and PI tell
 
 ---
 
-<!-- nav:bottom -->← Previous: [Study plans](study-plans.md) | Next: [Test-day checklist](test-day-checklist.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Study plans](study-plans.md) | Next: [Test-day checklist](test-day-checklist.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

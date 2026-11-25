@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [How PI Cognitive Assessment scoring works](scoring.md) · Next: [Study plans](study-plans.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [How PI Cognitive Assessment scoring works](scoring.md) · Next: [Study plans](study-plans.md)
+<!-- /nav:top -->
 
 # Timing and pacing
 
@@ -51,4 +53,6 @@ After each timed run, note two numbers: how many you answered, and how many of t
 
 ---
 
-<!-- nav:bottom -->← Previous: [How PI Cognitive Assessment scoring works](scoring.md) | Next: [Study plans](study-plans.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [How PI Cognitive Assessment scoring works](scoring.md) | Next: [Study plans](study-plans.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

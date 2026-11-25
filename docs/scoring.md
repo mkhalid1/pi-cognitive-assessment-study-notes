@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [Abstract reasoning](sections/abstract-reasoning.md) · Next: [Timing and pacing](timing.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [Abstract reasoning](sections/abstract-reasoning.md) · Next: [Timing and pacing](timing.md)
+<!-- /nav:top -->
 
 # How PI Cognitive Assessment scoring works
 
@@ -80,4 +82,6 @@ PI says its official sample questions have not been statistically equated with t
 
 ---
 
-<!-- nav:bottom -->← Previous: [Abstract reasoning](sections/abstract-reasoning.md) | Next: [Timing and pacing](timing.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Abstract reasoning](sections/abstract-reasoning.md) | Next: [Timing and pacing](timing.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

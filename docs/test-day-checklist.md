@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [If you are also taking the PI Behavioral Assessment](with-the-behavioral-assessment.md) · Next: [FAQ](faq.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [If you are also taking the PI Behavioral Assessment](with-the-behavioral-assessment.md) · Next: [FAQ](faq.md)
+<!-- /nav:top -->
 
 # Test-day checklist
 
@@ -50,4 +52,6 @@ Run one full 50-question, 12-minute set a day or two before, not on the morning 
 
 ---
 
-<!-- nav:bottom -->← Previous: [If you are also taking the PI Behavioral Assessment](with-the-behavioral-assessment.md) | Next: [FAQ](faq.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [If you are also taking the PI Behavioral Assessment](with-the-behavioral-assessment.md) | Next: [FAQ](faq.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Verbal reasoning](verbal-reasoning.md) · Next: [Abstract reasoning](abstract-reasoning.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Verbal reasoning](verbal-reasoning.md) · Next: [Abstract reasoning](abstract-reasoning.md)
+<!-- /nav:top -->
 
 # Numerical reasoning
 
@@ -116,4 +118,6 @@ The real numerical items arrive mixed with verbal and abstract ones, so switchin
 
 ---
 
-<!-- nav:bottom -->← Previous: [Verbal reasoning](verbal-reasoning.md) | Next: [Abstract reasoning](abstract-reasoning.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Verbal reasoning](verbal-reasoning.md) | Next: [Abstract reasoning](abstract-reasoning.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

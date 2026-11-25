@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [The PI Cognitive Assessment explained](test-overview.md) · Next: [Verbal reasoning](sections/verbal-reasoning.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [The PI Cognitive Assessment explained](test-overview.md) · Next: [Verbal reasoning](sections/verbal-reasoning.md)
+<!-- /nav:top -->
 
 # 10-minute diagnostic
 
@@ -90,4 +92,6 @@ Your diagnostic score is a guide to where to study, not a forecast. PI itself sa
 
 ---
 
-<!-- nav:bottom -->← Previous: [The PI Cognitive Assessment explained](test-overview.md) | Next: [Verbal reasoning](sections/verbal-reasoning.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [The PI Cognitive Assessment explained](test-overview.md) | Next: [Verbal reasoning](sections/verbal-reasoning.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

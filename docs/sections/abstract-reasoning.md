@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Numerical reasoning](numerical-reasoning.md) · Next: [How PI Cognitive Assessment scoring works](../scoring.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Numerical reasoning](numerical-reasoning.md) · Next: [How PI Cognitive Assessment scoring works](../scoring.md)
+<!-- /nav:top -->
 
 # Abstract reasoning
 
@@ -127,4 +129,6 @@ Shapes on screen look different from symbols in text, and the real items come mi
 
 ---
 
-<!-- nav:bottom -->← Previous: [Numerical reasoning](numerical-reasoning.md) | Next: [How PI Cognitive Assessment scoring works](../scoring.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Numerical reasoning](numerical-reasoning.md) | Next: [How PI Cognitive Assessment scoring works](../scoring.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

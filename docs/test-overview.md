@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [PI Cognitive Assessment Study Notes](../README.md) · Next: [10-minute diagnostic](diagnostic.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [PI Cognitive Assessment Study Notes](../README.md) · Next: [10-minute diagnostic](diagnostic.md)
+<!-- /nav:top -->
 
 # The PI Cognitive Assessment explained
 
@@ -67,4 +69,6 @@ For a full-length run at the real pace, try the [free 50-question, 12-minute PI 
 
 ---
 
-<!-- nav:bottom -->← Previous: [PI Cognitive Assessment Study Notes](../README.md) | Next: [10-minute diagnostic](diagnostic.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [PI Cognitive Assessment Study Notes](../README.md) | Next: [10-minute diagnostic](diagnostic.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

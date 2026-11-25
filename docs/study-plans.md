@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [Timing and pacing](timing.md) · Next: [If you are also taking the PI Behavioral Assessment](with-the-behavioral-assessment.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [Timing and pacing](timing.md) · Next: [If you are also taking the PI Behavioral Assessment](with-the-behavioral-assessment.md)
+<!-- /nav:top -->
 
 # Study plans
 
@@ -62,4 +64,6 @@ If you only have one evening, do day 1 blocks 1, 2 and 4, then sit the test the 
 
 ---
 
-<!-- nav:bottom -->← Previous: [Timing and pacing](timing.md) | Next: [If you are also taking the PI Behavioral Assessment](with-the-behavioral-assessment.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Timing and pacing](timing.md) | Next: [If you are also taking the PI Behavioral Assessment](with-the-behavioral-assessment.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->
