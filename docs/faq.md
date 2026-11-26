@@ -84,7 +84,7 @@ No. Tests that ask you to remember and recall a short list of words are memory s
 
 ## Where can I practise for free?
 
-Three places: the [practice items in this repo](sections/verbal-reasoning.md#practice-items), PI's own sample questions if your invitation includes the link, and the [free 50-question PI practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pi-cognitive-assessment?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pi-cognitive-assessment), which runs at the real length and pace.
+Three places: the [practice items in this repo](sections/verbal-reasoning.md#practice-items), PI's own sample questions if your invitation includes the link, and the [free 50-question PI practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pi-cognitive-assessment?utm_source=github&utm_medium=referral&utm_campaign=ngp6xf&utm_content=pi-cognitive-assessment), which runs at the real length and pace.
 
 ---
 

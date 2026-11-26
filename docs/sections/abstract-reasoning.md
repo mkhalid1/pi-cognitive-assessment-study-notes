@@ -109,7 +109,7 @@ A) ↑  B) →  C) ↓  D) ←  E) ↗
 
 </details>
 
-Want more? The free timed PI Cognitive practice test on PrepClubs has the full 50 questions, scored by section: [PI Cognitive practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pi-cognitive-assessment?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pi-cognitive-assessment).
+Want more? The free timed PI Cognitive practice test on PrepClubs has the full 50 questions, scored by section: [PI Cognitive practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pi-cognitive-assessment?utm_source=github&utm_medium=referral&utm_campaign=ngp6xf&utm_content=pi-cognitive-assessment).
 
 ## Score yourself
 
@@ -125,7 +125,7 @@ Practice scores are a guide to where to work, not a prediction of your PI score.
 
 ## Next step
 
-Shapes on screen look different from symbols in text, and the real items come mixed with words and numbers. Practise the full mix with the [free PI Cognitive practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pi-cognitive-assessment?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pi-cognitive-assessment), then come back to the common-rules table for the patterns that slowed you down.
+Shapes on screen look different from symbols in text, and the real items come mixed with words and numbers. Practise the full mix with the [free PI Cognitive practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pi-cognitive-assessment?utm_source=github&utm_medium=referral&utm_campaign=ngp6xf&utm_content=pi-cognitive-assessment), then come back to the common-rules table for the patterns that slowed you down.
 
 ---
 

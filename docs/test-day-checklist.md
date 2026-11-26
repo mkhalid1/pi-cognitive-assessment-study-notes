@@ -48,7 +48,7 @@ A short list for the day you sit the PI Cognitive Assessment. Most of it is abou
 
 ## Last practice before the real one
 
-Run one full 50-question, 12-minute set a day or two before, not on the morning itself: the [free PI Cognitive practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pi-cognitive-assessment?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pi-cognitive-assessment).
+Run one full 50-question, 12-minute set a day or two before, not on the morning itself: the [free PI Cognitive practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pi-cognitive-assessment?utm_source=github&utm_medium=referral&utm_campaign=ngp6xf&utm_content=pi-cognitive-assessment).
 
 ---
 

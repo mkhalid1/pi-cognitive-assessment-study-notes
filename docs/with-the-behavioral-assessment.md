@@ -35,7 +35,7 @@ A few practical points from PI's own guidance on the behavioural assessment:
 - You can take it on a computer, tablet or phone. PI says the device makes no difference to the results.
 - PI recommends people take it no more than once a year, so you will usually only do it once for a given employer.
 
-For a full guide to the behavioural side, including worked examples of how the two lists work, see the companion repo, [PI Behavioral Assessment Study Notes](https://github.com/mkhalid1/pi-behavioral-assessment-study-notes). To see how the adjective lists feel before the real thing, try the [free PI Behavioral practice profile on PrepClubs](https://prepclubs.com/free-practice-tests/pi-behavioral-assessment/practice-profile?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pi-cognitive-assessment).
+For a full guide to the behavioural side, including worked examples of how the two lists work, see the companion repo, [PI Behavioral Assessment Study Notes](https://github.com/mkhalid1/pi-behavioral-assessment-study-notes). To see how the adjective lists feel before the real thing, try the [free PI Behavioral practice profile on PrepClubs](https://prepclubs.com/free-practice-tests/pi-behavioral-assessment/practice-profile?utm_source=github&utm_medium=referral&utm_campaign=ngp6xf&utm_content=pi-cognitive-assessment).
 
 ## What the employer sees
 

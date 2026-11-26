@@ -2,7 +2,7 @@
 
 A free, complete study guide for the Predictive Index (PI) Cognitive Assessment: how the 50-question, 12-minute test works, a clear method for each of its three content areas, 21 original practice items with full explanations, how the 100 to 450 score really works, a pacing plan, and study plans for a week or a weekend. Written for anyone who has just received a PI link from an employer, with a page on taking it alongside the PI Behavioral Assessment. Facts about the test come only from The Predictive Index's own pages, each one [cited](docs/sources.md).
 
-Want to see where you stand first? Take the [free 50-question, 12-minute PI Cognitive practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pi-cognitive-assessment?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pi-cognitive-assessment), or the shorter [10-minute diagnostic](docs/diagnostic.md) in this repo.
+Want to see where you stand first? Take the [free 50-question, 12-minute PI Cognitive practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pi-cognitive-assessment?utm_source=github&utm_medium=referral&utm_campaign=ngp6xf&utm_content=pi-cognitive-assessment), or the shorter [10-minute diagnostic](docs/diagnostic.md) in this repo.
 
 ## Start here
 
@@ -158,7 +158,7 @@ Every area guide has the same parts: what it measures, how the questions look, a
 - **Test yourself honestly.** Answers are hidden under "Answers and explanations". Commit to an answer before you open them.
 - **Read every explanation,** including for items you got right. Most say why the nearest wrong option is wrong, which is where the learning is.
 - **Keep a miss log.** For each miss, note whether it was speed or understanding. The [study plans](docs/study-plans.md#how-to-review-a-missed-item) show how.
-- **Practise the full length.** The notes teach the formats. A full 50-question run, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/pi-cognitive-assessment?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pi-cognitive-assessment), teaches the pace.
+- **Practise the full length.** The notes teach the formats. A full 50-question run, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/pi-cognitive-assessment?utm_source=github&utm_medium=referral&utm_campaign=ngp6xf&utm_content=pi-cognitive-assessment), teaches the pace.
 - **Clone or fork it** if you want to annotate your own copy. The structure also works as a GitBook space: see [SUMMARY.md](SUMMARY.md).
 
 ## About the practice items

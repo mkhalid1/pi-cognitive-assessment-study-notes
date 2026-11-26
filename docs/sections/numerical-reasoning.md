@@ -98,7 +98,7 @@ A) 25  B) 30  C) 35  D) 40  E) 75
 
 </details>
 
-Want more? The free timed PI Cognitive practice test on PrepClubs has the full 50 questions, scored by section: [PI Cognitive practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pi-cognitive-assessment?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pi-cognitive-assessment).
+Want more? The free timed PI Cognitive practice test on PrepClubs has the full 50 questions, scored by section: [PI Cognitive practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pi-cognitive-assessment?utm_source=github&utm_medium=referral&utm_campaign=ngp6xf&utm_content=pi-cognitive-assessment).
 
 ## Score yourself
 
@@ -114,7 +114,7 @@ Practice scores are a guide to where to work, not a prediction of your PI score.
 
 ## Next step
 
-The real numerical items arrive mixed with verbal and abstract ones, so switching between them is part of the challenge. Practise that with the [free PI Cognitive practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pi-cognitive-assessment?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pi-cognitive-assessment), then return to the series checklist for any you missed.
+The real numerical items arrive mixed with verbal and abstract ones, so switching between them is part of the challenge. Practise that with the [free PI Cognitive practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pi-cognitive-assessment?utm_source=github&utm_medium=referral&utm_campaign=ngp6xf&utm_content=pi-cognitive-assessment), then return to the series checklist for any you missed.
 
 ---
 

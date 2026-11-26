@@ -16,7 +16,7 @@ PI says the test needs no preparation, and it is true that you cannot learn the 
 | 2 | Weakest area | Read that area's guide. Do its 5 practice items untimed, then again in 1 minute 10 seconds. Review every miss. |
 | 3 | Numerical | Read the [numerical guide](sections/numerical-reasoning.md). Learn the series checklist. Do the items timed. Spend 10 minutes on mental arithmetic: quarters, tenths, times tables. |
 | 4 | Verbal and abstract | Do the [verbal](sections/verbal-reasoning.md) and [abstract](sections/abstract-reasoning.md) sets, timed. For each abstract miss, write the rule in five words or fewer. |
-| 5 | First full timed run | Read the [timing guide](timing.md). Take a full 50-question, 12-minute practice test, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/pi-cognitive-assessment?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pi-cognitive-assessment). Note how many you answered and how many were right. |
+| 5 | First full timed run | Read the [timing guide](timing.md). Take a full 50-question, 12-minute practice test, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/pi-cognitive-assessment?utm_source=github&utm_medium=referral&utm_campaign=ngp6xf&utm_content=pi-cognitive-assessment). Note how many you answered and how many were right. |
 | 6 | Fix the leak | If you answered too few, drill the quick types (series, analogies, simple shapes) for speed. If you made too many slips, redo your missed items slowly and find the trap you fell for. |
 | 7 | Light run and rest | If your invitation includes PI's official sample questions, do them now. Then read the [test-day checklist](test-day-checklist.md). Stop by early evening. |
 
@@ -41,7 +41,7 @@ For when the link has arrived and the deadline is close.
 | 1 | 10 min | Take the [diagnostic](diagnostic.md). |
 | 2 | 15 min | Read "How the questions look" and "Traps" in all three section guides. |
 | 3 | 30 min | Do the practice set for your weakest area, then one other set, both timed. Read every explanation. |
-| 4 | 15 min | Take a full timed run, such as the [free PI practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pi-cognitive-assessment?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pi-cognitive-assessment). |
+| 4 | 15 min | Take a full timed run, such as the [free PI practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pi-cognitive-assessment?utm_source=github&utm_medium=referral&utm_campaign=ngp6xf&utm_content=pi-cognitive-assessment). |
 | 5 | 10 min | Review your misses with the three questions above. |
 
 ### Day 2: sit the test

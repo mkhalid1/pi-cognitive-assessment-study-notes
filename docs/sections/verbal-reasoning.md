@@ -87,7 +87,7 @@ A) assist  B) help  C) aid  D) hinder  E) support
 
 </details>
 
-Want more? The free timed PI Cognitive practice test on PrepClubs has the full 50 questions, scored by section: [PI Cognitive practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pi-cognitive-assessment?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pi-cognitive-assessment).
+Want more? The free timed PI Cognitive practice test on PrepClubs has the full 50 questions, scored by section: [PI Cognitive practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pi-cognitive-assessment?utm_source=github&utm_medium=referral&utm_campaign=ngp6xf&utm_content=pi-cognitive-assessment).
 
 ## Score yourself
 
@@ -103,7 +103,7 @@ Untimed accuracy matters, but so does pace. If you scored well but took twice th
 
 ## Next step
 
-Verbal items feel different when they are mixed in with numbers and shapes against a 12-minute clock. Try them in a full timed run with the [free PI Cognitive practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pi-cognitive-assessment?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pi-cognitive-assessment), then come back to the traps list for the items you missed.
+Verbal items feel different when they are mixed in with numbers and shapes against a 12-minute clock. Try them in a full timed run with the [free PI Cognitive practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pi-cognitive-assessment?utm_source=github&utm_medium=referral&utm_campaign=ngp6xf&utm_content=pi-cognitive-assessment), then come back to the traps list for the items you missed.
 
 ---
 

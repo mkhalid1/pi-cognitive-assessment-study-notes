@@ -65,7 +65,7 @@ PI's language list for the Cognitive Assessment includes more than 50 languages,
 
 PI has official sample questions. Employers can include the link in the invitation, so check your email first. PI says the sample questions are new questions, not taken from the real pool, and that your result on them is not a prediction of your real score. They are there so the format does not come as a shock.
 
-For a full-length run at the real pace, try the [free 50-question, 12-minute PI practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pi-cognitive-assessment?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pi-cognitive-assessment). Then take the [10-minute diagnostic](diagnostic.md) in this repo to see which area to work on first.
+For a full-length run at the real pace, try the [free 50-question, 12-minute PI practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pi-cognitive-assessment?utm_source=github&utm_medium=referral&utm_campaign=ngp6xf&utm_content=pi-cognitive-assessment). Then take the [10-minute diagnostic](diagnostic.md) in this repo to see which area to work on first.
 
 ---
 

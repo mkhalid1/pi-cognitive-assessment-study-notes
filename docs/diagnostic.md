@@ -17,7 +17,7 @@ These items are original, written for these notes. They are not taken from the P
 
 Reading, checking and reviewing takes about 10 minutes in total.
 
-If you already know the question styles, a full timed run tells you more. Take the [free PI Cognitive practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pi-cognitive-assessment?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pi-cognitive-assessment) instead.
+If you already know the question styles, a full timed run tells you more. Take the [free PI Cognitive practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pi-cognitive-assessment?utm_source=github&utm_medium=referral&utm_campaign=ngp6xf&utm_content=pi-cognitive-assessment) instead.
 
 ## Part A: Verbal reasoning
 
